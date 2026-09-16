@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Sparkles, CheckCircle2, XCircle, Edit3, Globe, Users, Lock, ChevronRight } from 'lucide-react';
+import { Sparkles, CheckCircle2, XCircle, Edit3, Globe, Users, Lock, ChevronRight, Shield } from 'lucide-react';
 
 export default function CreateOffering() {
   const navigate = useNavigate();
